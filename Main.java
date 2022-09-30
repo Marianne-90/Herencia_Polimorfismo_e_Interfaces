@@ -12,10 +12,10 @@ class Main {
     miTrabajador.edad = 18;
     miTrabajador.nombre = "Carlos";
     miTrabajador.telefono = "333-652-78-11";
-    miTrabajador.salario = 4323;    
+    miTrabajador.salario = 4000;    
 
 
-System.out.println("El nombre del Trabajador es " + miTrabajador.nombre + " su edad es " + miTrabajador.edad + "  su teléfono es " + miTrabajador.telefono + " y tiene un crédito de " + miTrabajador.salario);
+System.out.println("El nombre del Trabajador es " + miTrabajador.nombre + " su edad es " + miTrabajador.edad + "  su teléfono es " + miTrabajador.telefono + " y tiene un salario de " + miTrabajador.salario);
 
 
     
